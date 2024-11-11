@@ -19,8 +19,8 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/rk-play.git
-   cd rk-play
+   git clone https://github.com/Phillipe17Macedo/RK-Play.git
+   cd RK-Play
    ```
 
 2. Instale as dependências:
